@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-mobilnaya-versiya.github.io
+Sitemap: https://kazino-mobilnaya-versiya.github.io/sitemap.xml
